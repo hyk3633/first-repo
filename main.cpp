@@ -1,2 +1,2 @@
 #include "Enemy.h"
-int MAINFUNC() {}
+int MainFunction() {}
